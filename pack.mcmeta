@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "modifies ender dragon health depending on player count"
+  }
+}
